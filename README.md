@@ -25,10 +25,10 @@ En este proyecto se han aplicado principios de defensa en profundidad para mitig
 ## Evidencia de Validación
 
 ### Acceso Web Exitoso
-![Web Access](evidence/web_access.png)
+![Web Access](evidence/web_access.jpeg)
 
 ### Estado del Firewall
-![UFW Status](evidence/ufw_status.png)
+![UFW Status](evidence/ufw_status.jpeg)
 
 ### Configuración SSH Segura
-![SSH Config](evidence/ssh_config.png)
+![SSH Config](evidence/ssh_config.jpeg)

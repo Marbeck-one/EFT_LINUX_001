@@ -29,8 +29,7 @@ sudo curl -o ./docker-compose.yml "$URL"
 
 # 4. Generación de Contenido: index.html personalizado [cite: 50, 51]
 echo "[+] Generando index.html..."
-# Reemplaza 'TU_NOMBRE' con tu nombre real
-CONTENT="<h1>Servidor Seguro Propiedad de [TU_NOMBRE - Acceso Restringido]</h1>"
+CONTENT="<h1>Servidor Seguro Propiedad de [RODRIGO_MARTINEZ - Acceso Restringido]</h1>"
 echo "$CONTENT" | sudo tee /opt/webapp/html/index.html > /dev/null
 
 # 5. Gestión de Identidad: Usuario sysadmin [cite: 52]
