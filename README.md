@@ -1,4 +1,5 @@
 # Entrega Final Transversal - Infraestructura TechSolutions
+#  PROGRAMACION Y ADMINISTRACION LINUX_001D
 
 ## Guía de Despliegue
 Instrucciones para desplegar la infraestructura en un entorno limpio:
@@ -32,3 +33,8 @@ En este proyecto se han aplicado principios de defensa en profundidad para mitig
 
 ### Configuración SSH Segura
 ![SSH Config](evidence/ssh_config.jpeg)
+
+
+## 👤 Autor
+# Marbeck-one (AKA MARBECK) 
+# RODRIGO MARTINEZ BECKER
